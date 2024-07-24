@@ -8,8 +8,8 @@ String Mode;
 
 String command = "";  // Declare command as an empty String
 
-const char* ssid = "WIFI_0102";
-const char* password = "admin0102";
+const char* ssid = "enter your Wi-Fi here";
+const char* password = "enter Wi-Fi password here";
 WiFiServer server(80);
 
 // Pin for solenoid valves
