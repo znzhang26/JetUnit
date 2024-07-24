@@ -15,7 +15,7 @@ For implementation details, please refer to our paper: https://doi.org/10.1145/3
 * Hydrophobic PTFE adhesive patch [Amazon Link](https://www.amazon.com/gp/product/B09LD119PF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## Chamber Unit Model Design
-The single chamber unit model design is included as an STL file in this repo [3dprinting](./3dprinting). The recommended printing resin material is ELEGOO standard resin [Purchase Link](https://www.elegoo.com/products/elegoo-standard-resin?variant=40917398028336) or other similar products. Ensure to use a high-quality resin for optimal printing results.
+The single chamber unit model design is included as STL files in this repo [3dprinting](./3dprinting). The recommended printing resin material is ELEGOO standard resin [Purchase Link](https://www.elegoo.com/products/elegoo-standard-resin?variant=40917398028336) or other similar products. Ensure to use a high-quality resin for optimal printing results.
 
 ## Contact
 For questions or if something is wrong with this repository, contact znzhang@umd.edu
